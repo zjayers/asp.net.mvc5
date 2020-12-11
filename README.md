@@ -1,8 +1,8 @@
 # Asp Net Mvc5
-[![GitHub Release](https://img.shields.io/github/release/zjayers/asp.net.mvc5.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/asp.net.mvc5.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/asp.net.mvc5.svg?style=flat)](https://github.com/zjayers/asp.net.mvc5/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/asp.net.mvc5.svg?style=flat)](https://github.com/zjayers/asp.net.mvc5/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/asp.net.mvc5.svg?maxAge=25000)](https://github.com/zjayers/asp.net.mvc5/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/asp.net.mvc5/blob/master/LICENSEs)
+[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/asp.net.mvc5/blob/master/LICENSE)
 
 ## Description
 
